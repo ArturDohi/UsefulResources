@@ -41,7 +41,7 @@
 #### Web
 * http://easings.net/, css easing functions
 * http://plainjs.com/javascript/, explains how to do stuff in vanilla js
-
+* http://caniuse.com/, Browser support tables for support of front-end web technologies 
 ### Tools
 * https://www.sourcetreeapp.com/, a git client
 * https://travis-ci.org/, a build server
